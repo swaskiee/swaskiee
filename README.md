@@ -1,10 +1,11 @@
 <div align="center">
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4FF&height=200&section=header&text=SWATI%20DUBEY&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="header banner"/>
+
 <a href="https://github.com/swaskiee">
   <img src="https://raw.githubusercontent.com/swaskiee/swaskiee/main/reveal.svg?v=3" width="300" alt="Swati Dubey — profile portrait">
 </a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4FF&height=200&section=header&text=SWATI%20DUBEY&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="header banner"/>
 
 <br><br>
 
