@@ -1,40 +1,41 @@
 <div align="center">
 
 <a href="https://github.com/swaskiee">
-  <img src="https://raw.githubusercontent.com/swaskiee/swaskiee/main/reveal.svg" width="100%" alt="Swati Dubey — profile portrait">
+  <img src="./reveal.svg" width="230" alt="Swati Dubey — profile portrait">
 </a>
 
-</div>
+<br>
 
-# SWATI DUBEY
+# Hi, I'm Swati 👋
 
-### Aspiring Data Scientist · Data Analytics Explorer · Applied Intelligence Builder
-
-**curiosity → data → reasoning → intelligence → impact**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Data+Analytics+Explorer;Applied+Intelligence+Builder;curiosity+%E2%86%92+data+%E2%86%92+reasoning+%E2%86%92+impact" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/swaskiee/Gauntlet">
-<img src="https://img.shields.io/badge/GAUNTLET-FF4F64?style=for-the-badge&logo=github&logoColor=white" alt="Gauntlet">
+  <img src="https://img.shields.io/badge/GAUNTLET-FF4F64?style=for-the-badge&logo=github&logoColor=white" alt="Gauntlet">
 </a>
-&nbsp;
 <a href="https://github.com/swaskiee/Prism-AI-Hiring-Intelligence-Platform">
-<img src="https://img.shields.io/badge/PRISM-8057E8?style=for-the-badge&logo=github&logoColor=white" alt="Prism">
+  <img src="https://img.shields.io/badge/PRISM-8057E8?style=for-the-badge&logo=github&logoColor=white" alt="Prism">
 </a>
-&nbsp;
 <a href="https://github.com/swaskiee">
-<img src="https://img.shields.io/badge/REPOSITORIES-202431?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-202431?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+</a>
+<a href="https://www.linkedin.com/in/swati-dubey-137024369">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## DATA FIRST. QUESTIONS NEXT. USEFUL SYSTEMS AFTER THAT.
+### 🧭 DATA FIRST. QUESTIONS NEXT. USEFUL SYSTEMS AFTER THAT.
 
-I am an **aspiring data scientist** with a growing interest in **data analytics, applied intelligence, statistics, machine learning, and the systems that support data-driven applications**.
+I am an **aspiring data scientist** with a growing interest in **data analytics, applied intelligence, statistics, machine learning**, and the systems that support data-driven applications.
 
 I like the part where raw information stops being a spreadsheet and starts becoming a question:
 
@@ -42,152 +43,125 @@ I like the part where raw information stops being a spreadsheet and starts becom
 
 </div>
 
-<table>
+<br>
+
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<h3 align="center">DATA ANALYTICS</h3>
+### 📊 Data Analytics
 
-Clean, explore, compare and communicate data.
+<sub>Clean, explore, compare and communicate data.</sub>
 
 <br>
 
-**Tools & concepts**
-
-Microsoft Excel  
-Pivot Tables  
-Charts & Slicers  
-Data Cleaning  
-Segmentation  
-Trend Analysis  
-Business Insights
+`Microsoft Excel`
+`Pivot Tables`
+`Charts & Slicers`
+`Data Cleaning`
+`Segmentation`
+`Trend Analysis`
+`Business Insights`
 
 </td>
+<td align="center" width="33%" valign="top">
 
-<td width="33%" valign="top">
+### 🧠 Applied Intelligence
 
-<h3 align="center">APPLIED INTELLIGENCE</h3>
-
-Turn information into signals that can be matched, ranked, detected and explained.
+<sub>Turn information into signals that can be matched, ranked, detected and explained.</sub>
 
 <br>
 
-**Exploring**
-
-NLP  
-Semantic Similarity  
-Ranking  
-Behavioural Signals  
-Anomaly Detection  
-Explainability  
-Machine Learning
+`NLP`
+`Semantic Similarity`
+`Ranking`
+`Behavioural Signals`
+`Anomaly Detection`
+`Explainability`
+`Machine Learning`
 
 </td>
+<td align="center" width="33%" valign="top">
 
-<td width="33%" valign="top">
+### ⚙️ Data Systems
 
-<h3 align="center">DATA SYSTEMS</h3>
-
-Understand what happens underneath analytical workflows.
+<sub>Understand what happens underneath analytical workflows.</sub>
 
 <br>
 
-**Exploring**
-
-SQL  
-Persistence  
-Indexing  
-Query Execution  
-APIs  
-Temporal Data  
-Storage & Retrieval  
-System Design
+`SQL`
+`Persistence`
+`Indexing`
+`Query Execution`
+`APIs`
+`Temporal Data`
+`System Design`
 
 </td>
 </tr>
 </table>
+
+<br>
 
 ---
 
 <div align="center">
 
-## THE DIRECTION
-
-</div>
+## 🚀 The Direction
 
 <table>
 <tr>
 <td align="center" width="21%">
 
-**01**
-
-### UNDERSTAND
-
-Raw data  
-↓  
-Clean data  
-↓  
-Patterns
+**01 · UNDERSTAND**
+<br><sub>Raw data → Clean data → Patterns</sub>
 
 </td>
-<td align="center" width="4%"><strong>→</strong></td>
+<td align="center" width="4%">➜</td>
 <td align="center" width="21%">
 
-**02**
-
-### REASON
-
-Statistics  
-↓  
-Relationships  
-↓  
-Signals
+**02 · REASON**
+<br><sub>Statistics → Relationships → Signals</sub>
 
 </td>
-<td align="center" width="4%"><strong>→</strong></td>
+<td align="center" width="4%">➜</td>
 <td align="center" width="21%">
 
-**03**
-
-### PREDICT
-
-Features  
-↓  
-Models  
-↓  
-Evaluation
+**03 · PREDICT**
+<br><sub>Features → Models → Evaluation</sub>
 
 </td>
-<td align="center" width="4%"><strong>→</strong></td>
+<td align="center" width="4%">➜</td>
 <td align="center" width="21%">
 
-**04**
-
-### IMPACT
-
-Insight  
-↓  
-Decision  
-↓  
-Outcome
+**04 · IMPACT**
+<br><sub>Insight → Decision → Outcome</sub>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
 
 **Data Understanding → Statistical Reasoning → Machine Learning → Data Science Impact**
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-## FEATURED BUILDS
+## 🌟 Featured Builds
 
-### GAUNTLET
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🧩 Gauntlet
 
 <a href="https://github.com/swaskiee/Gauntlet">
 <img src="https://img.shields.io/badge/OPEN%20GAUNTLET-FF4F64?style=for-the-badge&logo=github&logoColor=white" alt="Open Gauntlet">
@@ -195,25 +169,20 @@ Outcome
 
 <br><br>
 
-A deeper engineering-focused build exploring how structured data, processing logic and system behaviour can work together.
+A deeper engineering-focused build exploring how structured data, processing logic, and system behaviour work together.
 
-<table>
-<tr>
-<td align="center"><strong>DATA</strong><br>structured information</td>
-<td align="center">→</td>
-<td align="center"><strong>PROCESS</strong><br>logic & transformation</td>
-<td align="center">→</td>
-<td align="center"><strong>SYSTEM</strong><br>usable behaviour</td>
-</tr>
-</table>
+<br>
+
+`DATA` ➜ `PROCESS` ➜ `SYSTEM`
 
 </div>
 
----
+</td>
+<td width="50%" valign="top">
 
 <div align="center">
 
-### PRISM — AI HIRING INTELLIGENCE PLATFORM
+### 🎯 PRISM — AI Hiring Intelligence
 
 <a href="https://github.com/swaskiee/Prism-AI-Hiring-Intelligence-Platform">
 <img src="https://img.shields.io/badge/OPEN%20PRISM-8057E8?style=for-the-badge&logo=github&logoColor=white" alt="Open Prism">
@@ -221,141 +190,100 @@ A deeper engineering-focused build exploring how structured data, processing log
 
 <br><br>
 
-An AI-driven hiring intelligence platform exploring how candidate information can become **meaningful, explainable signals** rather than a simple keyword match.
+An AI-driven hiring platform turning candidate information into **meaningful, explainable signals** — not just keyword matches.
 
-<table>
-<tr>
-<td align="center"><strong>INPUT</strong><br>candidate information</td>
-<td align="center">→</td>
-<td align="center"><strong>INTELLIGENCE</strong><br>NLP · similarity · ranking</td>
-<td align="center">→</td>
-<td align="center"><strong>OUTPUT</strong><br>interpretable decisions</td>
+<br>
+
+`INPUT` ➜ `INTELLIGENCE` ➜ `OUTPUT`
+
+**Core:** Semantic Matching · NLP · Ranking · Explainability
+
+</div>
+
+</td>
 </tr>
 </table>
 
 <br>
 
-**Core exploration:** Semantic Matching · NLP · Ranking · Explainability · Behavioural Signals · Anomaly Detection
-
-</div>
-
 ---
 
 <div align="center">
 
-## TECHNICAL TOOLKIT
-
-</div>
+## 🛠️ Technical Toolkit
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-### LANGUAGES
-
-Python  
-SQL  
-Java  
-C / C++  
-TypeScript  
-HTML / CSS
+**Languages**
+<br><br>
+Python&nbsp;·&nbsp;SQL&nbsp;·&nbsp;Java
+<br>C&nbsp;/&nbsp;C++&nbsp;·&nbsp;TypeScript
+<br>HTML&nbsp;/&nbsp;CSS
 
 </td>
 <td align="center" width="25%">
 
-### DATA
-
-Excel  
-Data Cleaning  
-Pivot Tables  
-Statistics  
-Data Analysis  
-Visualisation
+**Data**
+<br><br>
+Excel&nbsp;·&nbsp;Data Cleaning
+<br>Pivot Tables&nbsp;·&nbsp;Statistics
+<br>Data Analysis&nbsp;·&nbsp;Visualisation
 
 </td>
 <td align="center" width="25%">
 
-### INTELLIGENCE
-
-NLP  
-Semantic Similarity  
-Ranking  
-Machine Learning  
-Anomaly Detection  
-Explainability
+**Intelligence**
+<br><br>
+NLP&nbsp;·&nbsp;Semantic Similarity
+<br>Ranking&nbsp;·&nbsp;Machine Learning
+<br>Anomaly Detection
 
 </td>
 <td align="center" width="25%">
 
-### ENGINEERING
-
-Flask  
-SQLite  
-Node.js  
-Git  
-GitHub  
-Linux  
-APIs
+**Engineering**
+<br><br>
+Flask&nbsp;·&nbsp;SQLite&nbsp;·&nbsp;Node.js
+<br>Git&nbsp;·&nbsp;GitHub
+<br>Linux&nbsp;·&nbsp;APIs
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,typescript,java,cpp,html,css,bash,flask,nodejs,sqlite,git,github,linux" alt="Technology stack">
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-## OPEN SOURCE
+## 🌍 Open Source Contribution
 
 <a href="https://github.com/corsairdev/corsair/pull/1230">
 <img src="https://img.shields.io/badge/CORSAIR-202431?style=for-the-badge&logo=github&logoColor=white" alt="Corsair">
 <img src="https://img.shields.io/badge/%231230%20MERGED-19C968?style=for-the-badge" alt="Pull request 1230 merged">
 </a>
 
-<br><br>
-
 ### Dropbox Sign Integration Plugin
 
-Contributed a **Dropbox Sign integration plugin** to Corsair, an active open-source project.
-
-The contribution expanded Corsair with support across **56 operations** spanning signature requests, templates, embedded flows, teams and API apps, alongside authentication, validation, typed schemas, API handling, testing and plugin configuration.
+Contributed a **Dropbox Sign integration plugin** to Corsair, an active open-source project — adding support across **56 operations** spanning signature requests, templates, embedded flows, teams, and API apps, alongside authentication, validation, typed schemas, and testing.
 
 <table>
 <tr>
-<td align="center" width="25%">
-
-<strong>3,623+</strong><br>
-LINES ADDED
-
-</td>
-<td align="center" width="25%">
-
-<strong>19</strong><br>
-COMMITS
-
-</td>
-<td align="center" width="25%">
-
-<strong>26</strong><br>
-FILES CHANGED
-
-</td>
-<td align="center" width="25%">
-
-<strong>56</strong><br>
-API OPERATIONS
-
-</td>
+<td align="center" width="25%"><h3>3,623+</h3><sub>LINES ADDED</sub></td>
+<td align="center" width="25%"><h3>19</h3><sub>COMMITS</sub></td>
+<td align="center" width="25%"><h3>26</h3><sub>FILES CHANGED</sub></td>
+<td align="center" width="25%"><h3>56</h3><sub>API OPERATIONS</sub></td>
 </tr>
 </table>
-
-<br>
 
 <a href="https://github.com/corsairdev/corsair/pull/1230">
 <img src="https://img.shields.io/badge/READ%20THE%20CONTRIBUTION-FF4F64?style=for-the-badge&logo=github&logoColor=white" alt="Read contribution">
@@ -363,160 +291,120 @@ API OPERATIONS
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-## EARLIER BUILDS
+## 📚 Earlier Builds
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<th width="32%">PROJECT</th>
-<th>WHAT IT EXPLORED</th>
+<th align="left" width="32%">Project</th>
+<th align="left">What it explored</th>
 </tr>
-
 <tr>
-<td>
+<td valign="top">
 
-<strong>Student Registration System</strong><br>
-Flask + SQLite
-
-</td>
-<td>
-
-CRUD architecture, persistent storage, server-side application flow and database-backed interfaces.
+**Student Registration System**
+<br><sub>Flask + SQLite</sub>
 
 </td>
-</tr>
+<td valign="top">
 
-<tr>
-<td>
-
-<strong>Restaurant Reviews Analysis Dashboard</strong><br>
-Microsoft Excel
-
-</td>
-<td>
-
-Analysis of <strong>10,000 restaurant reviews across 100 restaurants</strong>, covering ratings, review trends, active reviewers, slicers and business recommendations.
+CRUD architecture, persistent storage, server-side application flow, and database-backed interfaces.
 
 </td>
 </tr>
-
 <tr>
-<td>
+<td valign="top">
 
-<strong>Vrinda Store Data Analysis</strong><br>
-Microsoft Excel
+**Restaurant Reviews Analysis Dashboard**
+<br><sub>Microsoft Excel</sub>
 
 </td>
-<td>
+<td valign="top">
 
-2022 sales analysis covering customer segments, sales channels, regional performance, delivery outcomes and actionable business recommendations.
+Analysis of **10,000 restaurant reviews across 100 restaurants** — ratings, review trends, active reviewers, slicers, and business recommendations.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Vrinda Store Data Analysis**
+<br><sub>Microsoft Excel</sub>
+
+</td>
+<td valign="top">
+
+2022 sales analysis covering customer segments, sales channels, regional performance, delivery outcomes, and actionable business recommendations.
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-### THE PROGRESSION
 
 **Dashboards → Analysis → Intelligence → Systems**
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-## CURRENTLY EXPLORING
-
-</div>
+## 🔭 Currently Exploring
 
 <table>
 <tr>
-<td align="center" width="20%">
-
-**DATA**
-
-Cleaning  
-EDA  
-Visualisation
-
-</td>
-<td align="center" width="20%">
-
-**STATISTICS**
-
-Distributions  
-Relationships  
-Inference
-
-</td>
-<td align="center" width="20%">
-
-**MACHINE LEARNING**
-
-Features  
-Prediction  
-Evaluation
-
-</td>
-<td align="center" width="20%">
-
-**INTELLIGENCE**
-
-NLP  
-Ranking  
-Similarity
-
-</td>
-<td align="center" width="20%">
-
-**SYSTEMS**
-
-Storage  
-Queries  
-APIs
-
-</td>
+<td align="center" width="20%">🧹<br>**Data**<br><sub>Cleaning · EDA · Viz</sub></td>
+<td align="center" width="20%">📈<br>**Statistics**<br><sub>Distributions · Inference</sub></td>
+<td align="center" width="20%">🤖<br>**ML**<br><sub>Features · Prediction</sub></td>
+<td align="center" width="20%">🧠<br>**Intelligence**<br><sub>NLP · Ranking</sub></td>
+<td align="center" width="20%">🗄️<br>**Systems**<br><sub>Storage · APIs</sub></td>
 </tr>
 </table>
 
+</div>
+
+<br>
+
 ---
 
 <div align="center">
 
-## THE NEXT ITERATION
+## 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=swaskiee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swaskiee&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaskiee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🧮 The Next Iteration
 
 <table>
 <tr>
-<td align="center">
-
-**MORE DATA**
-
-</td>
+<td align="center"><strong>MORE DATA</strong></td>
 <td align="center">+</td>
-<td align="center">
-
-**BETTER REASONING**
-
-</td>
+<td align="center"><strong>BETTER REASONING</strong></td>
 <td align="center">+</td>
-<td align="center">
-
-**STRONGER SYSTEMS**
-
-</td>
+<td align="center"><strong>STRONGER SYSTEMS</strong></td>
 <td align="center">=</td>
-<td align="center">
-
-**USEFUL INTELLIGENCE**
-
-</td>
+<td align="center"><strong>USEFUL INTELLIGENCE</strong></td>
 </tr>
 </table>
 
@@ -528,11 +416,10 @@ APIs
 
 <br><br>
 
-<img src="./chibbi.gif" width="150" alt="Chibbi">
+<img src="./chibbi.gif" width="140" alt="Chibbi">
 
 <br>
 
 <em>still learning · still building · still curious</em>
 
 </div>
-
