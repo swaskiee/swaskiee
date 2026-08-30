@@ -1,28 +1,10 @@
 <div align="center">
 
-<!--
-HERO NOTE
-GitHub README rendering does not reliably execute inline CSS, JavaScript,
-or animated inline SVG. The hero below therefore uses only GitHub-safe
-HTML/Markdown. Put myphoto.png in the SAME profile repository as README.md.
-
-For a true bottom-to-top portrait reveal, convert myphoto.png into an
-animated GIF/WebP named myphoto-reveal.gif and place it beside README.md.
-The README is already wired for that asset. If you do not want a second
-asset, the fallback uses myphoto.png and remains fully visible.
--->
-
 <a href="https://github.com/swaskiee">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./myphoto-reveal.gif">
-    <img src="./myphoto-reveal.gif" width="100%" alt="Swati Dubey — profile portrait">
-  </picture>
+  <img src="./reveal.svg" width="100%" alt="Swati Dubey — profile portrait">
 </a>
 
-<!-- If myphoto-reveal.gif has not been added yet, replace the image above
-     with: <img src="./myphoto.png" width="100%" alt="Swati Dubey"> -->
-
-<br>
+</div>
 
 # SWATI DUBEY
 
