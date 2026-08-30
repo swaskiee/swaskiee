@@ -1,45 +1,51 @@
 <div align="center">
-  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4FF&height=200&section=header&text=SWATI%20DUBEY&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="header banner"/>
+
 <a href="https://github.com/swaskiee">
-  <img src="https://raw.githubusercontent.com/swaskiee/swaskiee/main/reveal.svg?v=2" width="230" alt="Swati Dubey — profile portrait">
+  <img src="https://raw.githubusercontent.com/swaskiee/swaskiee/main/reveal.svg?v=3" width="300" alt="Swati Dubey — profile portrait">
 </a>
 
-<br>
+<br><br>
 
-# Hi, I'm Swati 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Data+Analytics+Explorer;Applied+Intelligence+Builder;curiosity+%E2%86%92+data+%E2%86%92+reasoning+%E2%86%92+impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Data+Analytics+Explorer;Applied+Intelligence+Builder;curiosity+-%3E+data+-%3E+reasoning+-%3E+impact" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/swaskiee/Gauntlet">
-  <img src="https://img.shields.io/badge/GAUNTLET-FF4F64?style=for-the-badge&logo=github&logoColor=white" alt="Gauntlet">
+  <img src="https://img.shields.io/badge/GAUNTLET-FF4F64?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Gauntlet">
 </a>
 <a href="https://github.com/swaskiee/Prism-AI-Hiring-Intelligence-Platform">
-  <img src="https://img.shields.io/badge/PRISM-8057E8?style=for-the-badge&logo=github&logoColor=white" alt="Prism">
+  <img src="https://img.shields.io/badge/PRISM-8057E8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Prism">
 </a>
 <a href="https://github.com/swaskiee">
-  <img src="https://img.shields.io/badge/REPOSITORIES-202431?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="Repositories">
 </a>
 <a href="https://www.linkedin.com/in/swati-dubey-137024369">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn">
 </a>
 
 </div>
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+
+<br>
 
 <div align="center">
 
-### 🧭 DATA FIRST. QUESTIONS NEXT. USEFUL SYSTEMS AFTER THAT.
+## DATA FIRST. QUESTIONS NEXT. USEFUL SYSTEMS AFTER THAT.
+
+<table><tr><td width="100%">
 
 I am an **aspiring data scientist** with a growing interest in **data analytics, applied intelligence, statistics, machine learning**, and the systems that support data-driven applications.
 
 I like the part where raw information stops being a spreadsheet and starts becoming a question:
 
-**What happened? → Why did it happen? → What signal matters? → What can we do with it?**
+### What happened&nbsp;&nbsp;→&nbsp;&nbsp;Why did it happen&nbsp;&nbsp;→&nbsp;&nbsp;What signal matters&nbsp;&nbsp;→&nbsp;&nbsp;What can we do with it
+
+</td></tr></table>
 
 </div>
 
@@ -49,53 +55,56 @@ I like the part where raw information stops being a spreadsheet and starts becom
 <tr>
 <td align="center" width="33%" valign="top">
 
-### 📊 Data Analytics
-
-<sub>Clean, explore, compare and communicate data.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,100:0D1117&height=55&width=100%&text=DATA%20ANALYTICS&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%">
 
 <br>
 
-`Microsoft Excel`
-`Pivot Tables`
-`Charts & Slicers`
-`Data Cleaning`
-`Segmentation`
-`Trend Analysis`
-`Business Insights`
+Clean, explore, compare and communicate data.
+
+<br>
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Pivot](https://img.shields.io/badge/Pivot_Tables-217346?style=flat-square)
+![Charts](https://img.shields.io/badge/Charts_%26_Slicers-217346?style=flat-square)
+![Cleaning](https://img.shields.io/badge/Data_Cleaning-217346?style=flat-square)
+![Segmentation](https://img.shields.io/badge/Segmentation-217346?style=flat-square)
+![Trend](https://img.shields.io/badge/Trend_Analysis-217346?style=flat-square)
 
 </td>
 <td align="center" width="33%" valign="top">
 
-### 🧠 Applied Intelligence
-
-<sub>Turn information into signals that can be matched, ranked, detected and explained.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8057E8,100:0D1117&height=55&width=100%&text=APPLIED%20INTELLIGENCE&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%">
 
 <br>
 
-`NLP`
-`Semantic Similarity`
-`Ranking`
-`Behavioural Signals`
-`Anomaly Detection`
-`Explainability`
-`Machine Learning`
+Turn information into signals that can be matched, ranked, detected and explained.
+
+<br>
+
+![NLP](https://img.shields.io/badge/NLP-8057E8?style=flat-square)
+![Similarity](https://img.shields.io/badge/Semantic_Similarity-8057E8?style=flat-square)
+![Ranking](https://img.shields.io/badge/Ranking-8057E8?style=flat-square)
+![Signals](https://img.shields.io/badge/Behavioural_Signals-8057E8?style=flat-square)
+![Anomaly](https://img.shields.io/badge/Anomaly_Detection-8057E8?style=flat-square)
+![ML](https://img.shields.io/badge/Machine_Learning-8057E8?style=flat-square)
 
 </td>
 <td align="center" width="33%" valign="top">
 
-### ⚙️ Data Systems
-
-<sub>Understand what happens underneath analytical workflows.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=55&width=100%&text=DATA%20SYSTEMS&fontSize=18&fontColor=000000&fontAlignY=65" width="100%">
 
 <br>
 
-`SQL`
-`Persistence`
-`Indexing`
-`Query Execution`
-`APIs`
-`Temporal Data`
-`System Design`
+Understand what happens underneath analytical workflows.
+
+<br>
+
+![SQL](https://img.shields.io/badge/SQL-006BB6?style=flat-square)
+![Persistence](https://img.shields.io/badge/Persistence-006BB6?style=flat-square)
+![Indexing](https://img.shields.io/badge/Indexing-006BB6?style=flat-square)
+![Query](https://img.shields.io/badge/Query_Execution-006BB6?style=flat-square)
+![APIs](https://img.shields.io/badge/APIs-006BB6?style=flat-square)
+![Design](https://img.shields.io/badge/System_Design-006BB6?style=flat-square)
 
 </td>
 </tr>
@@ -103,38 +112,42 @@ I like the part where raw information stops being a spreadsheet and starts becom
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+
+<br>
 
 <div align="center">
 
-## 🚀 The Direction
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=60&width=100%&text=THE%20DIRECTION&fontSize=26&fontColor=00D4FF&fontAlignY=68" width="100%">
+
+<br>
 
 <table>
 <tr>
 <td align="center" width="21%">
 
-**01 · UNDERSTAND**
+**01 — UNDERSTAND**
 <br><sub>Raw data → Clean data → Patterns</sub>
 
 </td>
-<td align="center" width="4%">➜</td>
+<td align="center" width="4%">→</td>
 <td align="center" width="21%">
 
-**02 · REASON**
+**02 — REASON**
 <br><sub>Statistics → Relationships → Signals</sub>
 
 </td>
-<td align="center" width="4%">➜</td>
+<td align="center" width="4%">→</td>
 <td align="center" width="21%">
 
-**03 · PREDICT**
+**03 — PREDICT**
 <br><sub>Features → Models → Evaluation</sub>
 
 </td>
-<td align="center" width="4%">➜</td>
+<td align="center" width="4%">→</td>
 <td align="center" width="21%">
 
-**04 · IMPACT**
+**04 — IMPACT**
 <br><sub>Insight → Decision → Outcome</sub>
 
 </td>
@@ -147,13 +160,17 @@ I like the part where raw information stops being a spreadsheet and starts becom
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+
+<br>
 
 <div align="center">
 
-## 🌟 Featured Builds
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,100:8057E8&height=70&width=100%&text=FEATURED%20BUILDS&fontSize=30&fontColor=FFFFFF&fontAlignY=68" width="100%">
 
 </div>
+
+<br>
 
 <table width="100%">
 <tr>
@@ -161,10 +178,10 @@ I like the part where raw information stops being a spreadsheet and starts becom
 
 <div align="center">
 
-### 🧩 Gauntlet
+### GAUNTLET
 
 <a href="https://github.com/swaskiee/Gauntlet">
-<img src="https://img.shields.io/badge/OPEN%20GAUNTLET-FF4F64?style=for-the-badge&logo=github&logoColor=white" alt="Open Gauntlet">
+<img src="https://img.shields.io/badge/OPEN%20GAUNTLET-FF4F64?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Open Gauntlet">
 </a>
 
 <br><br>
@@ -173,7 +190,7 @@ A deeper engineering-focused build exploring how structured data, processing log
 
 <br>
 
-`DATA` ➜ `PROCESS` ➜ `SYSTEM`
+**`DATA`** → **`PROCESS`** → **`SYSTEM`**
 
 </div>
 
@@ -182,10 +199,10 @@ A deeper engineering-focused build exploring how structured data, processing log
 
 <div align="center">
 
-### 🎯 PRISM — AI Hiring Intelligence
+### PRISM — AI HIRING INTELLIGENCE
 
 <a href="https://github.com/swaskiee/Prism-AI-Hiring-Intelligence-Platform">
-<img src="https://img.shields.io/badge/OPEN%20PRISM-8057E8?style=for-the-badge&logo=github&logoColor=white" alt="Open Prism">
+<img src="https://img.shields.io/badge/OPEN%20PRISM-8057E8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Open Prism">
 </a>
 
 <br><br>
@@ -194,9 +211,9 @@ An AI-driven hiring platform turning candidate information into **meaningful, ex
 
 <br>
 
-`INPUT` ➜ `INTELLIGENCE` ➜ `OUTPUT`
+**`INPUT`** → **`INTELLIGENCE`** → **`OUTPUT`**
 
-**Core:** Semantic Matching · NLP · Ranking · Explainability
+<sub>Semantic Matching · NLP · Ranking · Explainability</sub>
 
 </div>
 
@@ -206,48 +223,52 @@ An AI-driven hiring platform turning candidate information into **meaningful, ex
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+
+<br>
 
 <div align="center">
 
-## 🛠️ Technical Toolkit
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=60&width=100%&text=TECHNICAL%20TOOLKIT&fontSize=26&fontColor=00D4FF&fontAlignY=68" width="100%">
+
+<br>
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-**Languages**
+**LANGUAGES**
 <br><br>
-Python&nbsp;·&nbsp;SQL&nbsp;·&nbsp;Java
-<br>C&nbsp;/&nbsp;C++&nbsp;·&nbsp;TypeScript
-<br>HTML&nbsp;/&nbsp;CSS
+Python · SQL · Java
+<br>C / C++ · TypeScript
+<br>HTML / CSS
 
 </td>
 <td align="center" width="25%">
 
-**Data**
+**DATA**
 <br><br>
-Excel&nbsp;·&nbsp;Data Cleaning
-<br>Pivot Tables&nbsp;·&nbsp;Statistics
-<br>Data Analysis&nbsp;·&nbsp;Visualisation
+Excel · Data Cleaning
+<br>Pivot Tables · Statistics
+<br>Data Analysis · Visualisation
 
 </td>
 <td align="center" width="25%">
 
-**Intelligence**
+**INTELLIGENCE**
 <br><br>
-NLP&nbsp;·&nbsp;Semantic Similarity
-<br>Ranking&nbsp;·&nbsp;Machine Learning
+NLP · Semantic Similarity
+<br>Ranking · Machine Learning
 <br>Anomaly Detection
 
 </td>
 <td align="center" width="25%">
 
-**Engineering**
+**ENGINEERING**
 <br><br>
-Flask&nbsp;·&nbsp;SQLite&nbsp;·&nbsp;Node.js
-<br>Git&nbsp;·&nbsp;GitHub
-<br>Linux&nbsp;·&nbsp;APIs
+Flask · SQLite · Node.js
+<br>Git · GitHub
+<br>Linux · APIs
 
 </td>
 </tr>
@@ -261,27 +282,35 @@ Flask&nbsp;·&nbsp;SQLite&nbsp;·&nbsp;Node.js
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+
+<br>
 
 <div align="center">
 
-## 🌍 Open Source Contribution
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:19C968,100:0D1117&height=60&width=100%&text=OPEN%20SOURCE%20CONTRIBUTION&fontSize=24&fontColor=FFFFFF&fontAlignY=68" width="100%">
+
+<br>
 
 <a href="https://github.com/corsairdev/corsair/pull/1230">
 <img src="https://img.shields.io/badge/CORSAIR-202431?style=for-the-badge&logo=github&logoColor=white" alt="Corsair">
 <img src="https://img.shields.io/badge/%231230%20MERGED-19C968?style=for-the-badge" alt="Pull request 1230 merged">
 </a>
 
-### Dropbox Sign Integration Plugin
+### DROPBOX SIGN INTEGRATION PLUGIN
+
+<table><tr><td>
 
 Contributed a **Dropbox Sign integration plugin** to Corsair, an active open-source project — adding support across **56 operations** spanning signature requests, templates, embedded flows, teams, and API apps, alongside authentication, validation, typed schemas, and testing.
 
+</td></tr></table>
+
 <table>
 <tr>
-<td align="center" width="25%"><h3>3,623+</h3><sub>LINES ADDED</sub></td>
-<td align="center" width="25%"><h3>19</h3><sub>COMMITS</sub></td>
-<td align="center" width="25%"><h3>26</h3><sub>FILES CHANGED</sub></td>
-<td align="center" width="25%"><h3>56</h3><sub>API OPERATIONS</sub></td>
+<td align="center" width="25%"><h2>3,623+</h2><sub>LINES ADDED</sub></td>
+<td align="center" width="25%"><h2>19</h2><sub>COMMITS</sub></td>
+<td align="center" width="25%"><h2>26</h2><sub>FILES CHANGED</sub></td>
+<td align="center" width="25%"><h2>56</h2><sub>API OPERATIONS</sub></td>
 </tr>
 </table>
 
@@ -293,18 +322,22 @@ Contributed a **Dropbox Sign integration plugin** to Corsair, an active open-sou
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+
+<br>
 
 <div align="center">
 
-## 📚 Earlier Builds
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=60&width=100%&text=EARLIER%20BUILDS&fontSize=26&fontColor=00D4FF&fontAlignY=68" width="100%">
 
 </div>
 
+<br>
+
 <table width="100%">
 <tr>
-<th align="left" width="32%">Project</th>
-<th align="left">What it explored</th>
+<th align="left" width="32%">PROJECT</th>
+<th align="left">WHAT IT EXPLORED</th>
 </tr>
 <tr>
 <td valign="top">
@@ -355,19 +388,23 @@ Analysis of **10,000 restaurant reviews across 100 restaurants** — ratings, re
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+
+<br>
 
 <div align="center">
 
-## 🔭 Currently Exploring
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=60&width=100%&text=CURRENTLY%20EXPLORING&fontSize=26&fontColor=00D4FF&fontAlignY=68" width="100%">
+
+<br>
 
 <table>
 <tr>
-<td align="center" width="20%">🧹<br>**Data**<br><sub>Cleaning · EDA · Viz</sub></td>
-<td align="center" width="20%">📈<br>**Statistics**<br><sub>Distributions · Inference</sub></td>
-<td align="center" width="20%">🤖<br>**ML**<br><sub>Features · Prediction</sub></td>
-<td align="center" width="20%">🧠<br>**Intelligence**<br><sub>NLP · Ranking</sub></td>
-<td align="center" width="20%">🗄️<br>**Systems**<br><sub>Storage · APIs</sub></td>
+<td align="center" width="20%">**DATA**<br><sub>Cleaning · EDA · Viz</sub></td>
+<td align="center" width="20%">**STATISTICS**<br><sub>Distributions · Inference</sub></td>
+<td align="center" width="20%">**MACHINE LEARNING**<br><sub>Features · Prediction</sub></td>
+<td align="center" width="20%">**INTELLIGENCE**<br><sub>NLP · Ranking</sub></td>
+<td align="center" width="20%">**SYSTEMS**<br><sub>Storage · APIs</sub></td>
 </tr>
 </table>
 
@@ -375,51 +412,25 @@ Analysis of **10,000 restaurant reviews across 100 restaurants** — ratings, re
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+
+<br>
 
 <div align="center">
 
-## 📈 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=60&width=100%&text=GITHUB%20STATS&fontSize=26&fontColor=00D4FF&fontAlignY=68" width="100%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=swaskiee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swaskiee&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaskiee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=swaskiee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swaskiee&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaskiee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
 
 </div>
 
 <br>
 
----
-
-<div align="center">
-
-## 🧮 The Next Iteration
-
-<table>
-<tr>
-<td align="center"><strong>MORE DATA</strong></td>
-<td align="center">+</td>
-<td align="center"><strong>BETTER REASONING</strong></td>
-<td align="center">+</td>
-<td align="center"><strong>STRONGER SYSTEMS</strong></td>
-<td align="center">=</td>
-<td align="center"><strong>USEFUL INTELLIGENCE</strong></td>
-</tr>
-</table>
-
-<br>
-
-<a href="https://github.com/swaskiee">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-202431?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories">
-</a>
-
-<br><br>
-
-<img src="./chibbi.gif" width="140" alt="Chibbi">
-
-<br>
-
-<em>still learning · still building · still curious</em>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4FF&height=180&section=footer&text=STILL%20LEARNING%20%C2%B7%20STILL%20BUILDING%20%C2%B7%20STILL%20CURIOUS&fontSize=20&fontColor=FFFFFF&animation=fadeIn" width="100%">
