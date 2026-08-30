@@ -1,205 +1,125 @@
 <div align="center">
 
-<img src="./chibbi.gif" alt="Chibbi" width="100%" />
+<!--
+HERO NOTE
+GitHub README rendering does not reliably execute inline CSS, JavaScript,
+or animated inline SVG. The hero below therefore uses only GitHub-safe
+HTML/Markdown. Put myphoto.png in the SAME profile repository as README.md.
+
+For a true bottom-to-top portrait reveal, convert myphoto.png into an
+animated GIF/WebP named myphoto-reveal.gif and place it beside README.md.
+The README is already wired for that asset. If you do not want a second
+asset, the fallback uses myphoto.png and remains fully visible.
+-->
+
+<a href="https://github.com/swaskiee">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./myphoto-reveal.gif">
+    <img src="./myphoto-reveal.gif" width="100%" alt="Swati Dubey — profile portrait">
+  </picture>
+</a>
+
+<!-- If myphoto-reveal.gif has not been added yet, replace the image above
+     with: <img src="./myphoto.png" width="100%" alt="Swati Dubey"> -->
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=34&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=850&height=70&lines=Hi%2C+I'm+Swati+Dubey.;Aspiring+Data+Scientist.;Data+%E2%80%A2+Analytics+%E2%80%A2+AI+%E2%80%A2+Curiosity" alt="Animated name and introduction">
+# SWATI DUBEY
+
+### Aspiring Data Scientist · Data Analytics Explorer · Applied Intelligence Builder
+
+**curiosity → data → reasoning → intelligence → impact**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=EC4899&center=true&vCenter=true&width=700&height=35&lines=turning+raw+data+into+useful+stories.;learning+through+analysis%2C+experimentation+and+building.;curious+about+what+the+data+is+trying+to+say." alt="Animated tagline">
-
-<br><br>
-
-<a href="https://github.com/swaskiee/Prism-AI-Hiring-Intelligence-Platform"><img src="https://img.shields.io/badge/PRISM-AI%20HIRING%20INTELLIGENCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="PRISM"></a>
-<a href="https://github.com/swaskiee/Gauntlet"><img src="https://img.shields.io/badge/GAUNTLET-DATA%20%26%20ANALYTICS-EF4444?style=for-the-badge&logo=github&logoColor=white" alt="GAUNTLET"></a>
-<a href="https://github.com/corsairdev/corsair/pull/1230"><img src="https://img.shields.io/badge/OPEN%20SOURCE-MERGED-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Open source contribution"></a>
+<a href="https://github.com/swaskiee/Gauntlet">
+<img src="https://img.shields.io/badge/GAUNTLET-FF4F64?style=for-the-badge&logo=github&logoColor=white" alt="Gauntlet">
+</a>
+&nbsp;
+<a href="https://github.com/swaskiee/Prism-AI-Hiring-Intelligence-Platform">
+<img src="https://img.shields.io/badge/PRISM-8057E8?style=for-the-badge&logo=github&logoColor=white" alt="Prism">
+</a>
+&nbsp;
+<a href="https://github.com/swaskiee">
+<img src="https://img.shields.io/badge/REPOSITORIES-202431?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+</a>
 
 </div>
-
-<br>
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-## Hello, data.
-
-I'm **Swati Dubey**, an aspiring **Data Scientist / Data Analyst** who enjoys finding patterns, asking better questions, and turning messy information into something people can actually use.
-
-My journey started with practical data analysis and application projects and has gradually moved toward more ambitious work involving **AI, analytics, intelligent ranking, data systems, and open-source engineering**.
-
-What excites me most is the space where:
-
-**data → insight → decision → better system**
-
-</td>
-<td width="42%" valign="top" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=8&section=header" width="100%" alt="gradient divider">
-
-### What I enjoy
-
-Data exploration  
-Analytics & visualization  
-Applied AI  
-Pattern discovery  
-Experimentation  
-Problem solving
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=8&section=footer" width="100%" alt="gradient divider">
-
-</td>
-</tr>
-</table>
 
 ---
 
 <div align="center">
 
-## The direction I'm growing in
+## DATA FIRST. QUESTIONS NEXT. USEFUL SYSTEMS AFTER THAT.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=820&height=32&lines=data+analysis+%E2%86%92+statistics+%E2%86%92+machine+learning+%E2%86%92+data+science;questions+%E2%86%92+evidence+%E2%86%92+insight+%E2%86%92+action" alt="Animated growth path">
+I am an **aspiring data scientist** with a growing interest in **data analytics, applied intelligence, statistics, machine learning, and the systems that support data-driven applications**.
 
-</div>
+I like the part where raw information stops being a spreadsheet and starts becoming a question:
 
-<table>
-<tr align="center">
-<td width="25%"><strong>01</strong><br><sub>EXPLORE</sub><br><br>Understand the data</td>
-<td width="25%"><strong>02</strong><br><sub>ANALYZE</sub><br><br>Find patterns & relationships</td>
-<td width="25%"><strong>03</strong><br><sub>MODEL</sub><br><br>Experiment with intelligence</td>
-<td width="25%"><strong>04</strong><br><sub>COMMUNICATE</sub><br><br>Turn findings into decisions</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## Featured Work
+**What happened? → Why did it happen? → What signal matters? → What can we do with it?**
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### PRISM
-**AI Hiring Intelligence Platform**
+<h3 align="center">DATA ANALYTICS</h3>
 
-<a href="https://github.com/swaskiee/Prism-AI-Hiring-Intelligence-Platform"><img src="https://img.shields.io/badge/VIEW%20PROJECT-%E2%86%92-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="View PRISM"></a>
-
-An explainable candidate-intelligence platform that combines semantic matching, structural constraints, behavioral signals, anomaly detection, and score fusion to produce a more inspectable ranking workflow.
+Clean, explore, compare and communicate data.
 
 <br>
 
-<strong>Core idea</strong>
-
-Candidate data  
-↓  
-Semantic understanding  
-↓  
-Constraint checks  
-↓  
-Behavioral signals  
-↓  
-Anomaly detection  
-↓  
-Explainable ranking
-
-<br>
-
-<sub>Semantic Matching · NLP · Ranking · Explainability · Anomaly Detection</sub>
-
-</td>
-
-<td width="50%" valign="top">
-
-### GAUNTLET
-**Temporal Data & Analytics Engine**
-
-<a href="https://github.com/swaskiee/Gauntlet"><img src="https://img.shields.io/badge/VIEW%20PROJECT-%E2%86%92-EF4444?style=flat-square&logo=github&logoColor=white" alt="View GAUNTLET"></a>
-
-A deeper exploration into how data and analytics systems work underneath the interface, with durable storage, indexed retrieval, temporal reconstruction, query execution, analytics, and anomaly detection.
-
-<br>
-
-<strong>Core idea</strong>
-
-Data ingestion  
-↓  
-Persistent storage  
-↓  
-Indexes & retrieval  
-↓  
-Query execution  
-↓  
-Temporal reconstruction  
-↓  
-Analytics & anomalies
-
-<br>
-
-<sub>Storage · WAL · Indexing · Query Systems · Temporal Data · Analytics</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header&text=From%20Dashboards%20to%20Systems&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" alt="Animated section banner">
-
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### Data Analytics
-
-The starting point: cleaning data, building dashboards, comparing segments, identifying trends, and translating numbers into practical recommendations.
-
-**Tools**
+**Tools & concepts**
 
 Microsoft Excel  
 Pivot Tables  
-Charts  
-Slicers  
-Data Cleaning
+Charts & Slicers  
+Data Cleaning  
+Segmentation  
+Trend Analysis  
+Business Insights
 
 </td>
-<td width="33%" align="center" valign="top">
 
-### Applied Intelligence
+<td width="33%" valign="top">
 
-The next step: using data to create systems that can rank, detect, compare, explain, and support decisions rather than simply display information.
+<h3 align="center">APPLIED INTELLIGENCE</h3>
 
-**Focus**
+Turn information into signals that can be matched, ranked, detected and explained.
+
+<br>
+
+**Exploring**
 
 NLP  
 Semantic Similarity  
 Ranking  
-Behavioral Signals  
-Anomaly Detection
+Behavioural Signals  
+Anomaly Detection  
+Explainability  
+Machine Learning
 
 </td>
-<td width="33%" align="center" valign="top">
 
-### Data Systems
+<td width="33%" valign="top">
 
-Going deeper: understanding the infrastructure underneath analytics — storage, indexing, recovery, querying, historical state, and system design.
+<h3 align="center">DATA SYSTEMS</h3>
 
-**Focus**
+Understand what happens underneath analytical workflows.
 
+<br>
+
+**Exploring**
+
+SQL  
 Persistence  
-WAL  
-Indexes  
+Indexing  
 Query Execution  
-Temporal Reconstruction
+APIs  
+Temporal Data  
+Storage & Retrieval  
+System Design
 
 </td>
 </tr>
@@ -209,61 +129,101 @@ Temporal Reconstruction
 
 <div align="center">
 
-## Open Source
+## THE DIRECTION
 
-<a href="https://github.com/corsairdev/corsair/pull/1230">
-<img src="https://img.shields.io/badge/CORSAIR-%23%201230%20MERGED-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Corsair pull request 1230">
+</div>
+
+<table>
+<tr>
+<td align="center" width="21%">
+
+**01**
+
+### UNDERSTAND
+
+Raw data  
+↓  
+Clean data  
+↓  
+Patterns
+
+</td>
+<td align="center" width="4%"><strong>→</strong></td>
+<td align="center" width="21%">
+
+**02**
+
+### REASON
+
+Statistics  
+↓  
+Relationships  
+↓  
+Signals
+
+</td>
+<td align="center" width="4%"><strong>→</strong></td>
+<td align="center" width="21%">
+
+**03**
+
+### PREDICT
+
+Features  
+↓  
+Models  
+↓  
+Evaluation
+
+</td>
+<td align="center" width="4%"><strong>→</strong></td>
+<td align="center" width="21%">
+
+**04**
+
+### IMPACT
+
+Insight  
+↓  
+Decision  
+↓  
+Outcome
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Data Understanding → Statistical Reasoning → Machine Learning → Data Science Impact**
+
+</div>
+
+---
+
+<div align="center">
+
+## FEATURED BUILDS
+
+### GAUNTLET
+
+<a href="https://github.com/swaskiee/Gauntlet">
+<img src="https://img.shields.io/badge/OPEN%20GAUNTLET-FF4F64?style=for-the-badge&logo=github&logoColor=white" alt="Open Gauntlet">
 </a>
 
 <br><br>
 
-Contributed a **Dropbox Sign integration plugin** to Corsair, an active open-source project.
-
-</div>
-
-<table>
-<tr align="center">
-<td><strong>56</strong><br><sub>API OPERATIONS</sub></td>
-<td><strong>19</strong><br><sub>COMMITS</sub></td>
-<td><strong>26</strong><br><sub>FILES CHANGED</sub></td>
-<td><strong>MERGED</strong><br><sub>UPSTREAM</sub></td>
-</tr>
-</table>
-
-The contribution spans signature requests, templates, embedded flows, teams, API apps, authentication, validation, typed schemas, API handling, testing, and plugin configuration.
-
-<a href="https://github.com/corsairdev/corsair/pull/1230">Read the contribution →</a>
-
----
-
-<div align="center">
-
-## Earlier Builds
-
-</div>
+A deeper engineering-focused build exploring how structured data, processing logic and system behaviour can work together.
 
 <table>
 <tr>
-<th>Project</th>
-<th>What it taught</th>
-</tr>
-<tr>
-<td><strong>Student Registration System</strong><br>Flask + SQLite</td>
-<td>CRUD architecture, persistent storage, server-side application flow and database-backed interfaces.</td>
-</tr>
-<tr>
-<td><strong>Restaurant Reviews Analysis Dashboard</strong><br>Excel</td>
-<td>10,000 reviews, restaurant performance, review trends, slicers and business recommendations.</td>
-</tr>
-<tr>
-<td><strong>Vrinda Store Data Analysis</strong><br>Excel</td>
-<td>Sales segmentation, customer behavior, channel performance, geography and actionable insights.</td>
+<td align="center"><strong>DATA</strong><br>structured information</td>
+<td align="center">→</td>
+<td align="center"><strong>PROCESS</strong><br>logic & transformation</td>
+<td align="center">→</td>
+<td align="center"><strong>SYSTEM</strong><br>usable behaviour</td>
 </tr>
 </table>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2400&pause=700&color=F59E0B&center=true&vCenter=true&width=780&height=30&lines=small+projects+%E2%86%92+better+questions+%E2%86%92+bigger+systems" alt="Animated progression">
 
 </div>
 
@@ -271,54 +231,326 @@ The contribution spans signature requests, templates, embedded flows, teams, API
 
 <div align="center">
 
-## Tools & Technologies
+### PRISM — AI HIRING INTELLIGENCE PLATFORM
 
-<img src="https://skillicons.dev/icons?i=python,typescript,java,cpp,html,css,bash,sql,flask,nodejs,sqlite,git,github,linux" alt="Technology icons">
+<a href="https://github.com/swaskiee/Prism-AI-Hiring-Intelligence-Platform">
+<img src="https://img.shields.io/badge/OPEN%20PRISM-8057E8?style=for-the-badge&logo=github&logoColor=white" alt="Open Prism">
+</a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/SQL-0F766E?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-<img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-<img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032" alt="Git">
-<img src="https://img.shields.io/badge/Linux-18181B?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
-
-</div>
-
----
-
-<div align="center">
-
-## What I'm building toward
+An AI-driven hiring intelligence platform exploring how candidate information can become **meaningful, explainable signals** rather than a simple keyword match.
 
 <table>
 <tr>
-<td width="20%" align="center">Data<br><strong>Understanding</strong></td>
-<td width="5%" align="center">→</td>
-<td width="20%" align="center">Statistics<br><strong>Reasoning</strong></td>
-<td width="5%" align="center">→</td>
-<td width="20%" align="center">Machine Learning<br><strong>Prediction</strong></td>
-<td width="5%" align="center">→</td>
-<td width="20%" align="center">Data Science<br><strong>Impact</strong></td>
+<td align="center"><strong>INPUT</strong><br>candidate information</td>
+<td align="center">→</td>
+<td align="center"><strong>INTELLIGENCE</strong><br>NLP · similarity · ranking</td>
+<td align="center">→</td>
+<td align="center"><strong>OUTPUT</strong><br>interpretable decisions</td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=17&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&height=35&lines=keep+asking+better+questions.;keep+building+better+answers." alt="Animated closing statement">
-
-<br><br>
-
-<a href="https://github.com/swaskiee/Gauntlet"><img src="https://img.shields.io/badge/GAUNTLET-EF4444?style=for-the-badge&logo=github&logoColor=white" alt="Gauntlet"></a>
-<a href="https://github.com/swaskiee/Prism-AI-Hiring-Intelligence-Platform"><img src="https://img.shields.io/badge/PRISM-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Prism"></a>
-<a href="https://github.com/swaskiee"><img src="https://img.shields.io/badge/ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" alt="Animated footer">
+**Core exploration:** Semantic Matching · NLP · Ranking · Explainability · Behavioural Signals · Anomaly Detection
 
 </div>
 
+---
+
+<div align="center">
+
+## TECHNICAL TOOLKIT
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### LANGUAGES
+
+Python  
+SQL  
+Java  
+C / C++  
+TypeScript  
+HTML / CSS
+
+</td>
+<td align="center" width="25%">
+
+### DATA
+
+Excel  
+Data Cleaning  
+Pivot Tables  
+Statistics  
+Data Analysis  
+Visualisation
+
+</td>
+<td align="center" width="25%">
+
+### INTELLIGENCE
+
+NLP  
+Semantic Similarity  
+Ranking  
+Machine Learning  
+Anomaly Detection  
+Explainability
+
+</td>
+<td align="center" width="25%">
+
+### ENGINEERING
+
+Flask  
+SQLite  
+Node.js  
+Git  
+GitHub  
+Linux  
+APIs
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,java,cpp,html,css,bash,flask,nodejs,sqlite,git,github,linux" alt="Technology stack">
+
+</div>
+
+---
+
+<div align="center">
+
+## OPEN SOURCE
+
+<a href="https://github.com/corsairdev/corsair/pull/1230">
+<img src="https://img.shields.io/badge/CORSAIR-202431?style=for-the-badge&logo=github&logoColor=white" alt="Corsair">
+<img src="https://img.shields.io/badge/%231230%20MERGED-19C968?style=for-the-badge" alt="Pull request 1230 merged">
+</a>
+
+<br><br>
+
+### Dropbox Sign Integration Plugin
+
+Contributed a **Dropbox Sign integration plugin** to Corsair, an active open-source project.
+
+The contribution expanded Corsair with support across **56 operations** spanning signature requests, templates, embedded flows, teams and API apps, alongside authentication, validation, typed schemas, API handling, testing and plugin configuration.
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<strong>3,623+</strong><br>
+LINES ADDED
+
+</td>
+<td align="center" width="25%">
+
+<strong>19</strong><br>
+COMMITS
+
+</td>
+<td align="center" width="25%">
+
+<strong>26</strong><br>
+FILES CHANGED
+
+</td>
+<td align="center" width="25%">
+
+<strong>56</strong><br>
+API OPERATIONS
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/corsairdev/corsair/pull/1230">
+<img src="https://img.shields.io/badge/READ%20THE%20CONTRIBUTION-FF4F64?style=for-the-badge&logo=github&logoColor=white" alt="Read contribution">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## EARLIER BUILDS
+
+</div>
+
+<table>
+<tr>
+<th width="32%">PROJECT</th>
+<th>WHAT IT EXPLORED</th>
+</tr>
+
+<tr>
+<td>
+
+<strong>Student Registration System</strong><br>
+Flask + SQLite
+
+</td>
+<td>
+
+CRUD architecture, persistent storage, server-side application flow and database-backed interfaces.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<strong>Restaurant Reviews Analysis Dashboard</strong><br>
+Microsoft Excel
+
+</td>
+<td>
+
+Analysis of <strong>10,000 restaurant reviews across 100 restaurants</strong>, covering ratings, review trends, active reviewers, slicers and business recommendations.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<strong>Vrinda Store Data Analysis</strong><br>
+Microsoft Excel
+
+</td>
+<td>
+
+2022 sales analysis covering customer segments, sales channels, regional performance, delivery outcomes and actionable business recommendations.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### THE PROGRESSION
+
+**Dashboards → Analysis → Intelligence → Systems**
+
+</div>
+
+---
+
+<div align="center">
+
+## CURRENTLY EXPLORING
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+**DATA**
+
+Cleaning  
+EDA  
+Visualisation
+
+</td>
+<td align="center" width="20%">
+
+**STATISTICS**
+
+Distributions  
+Relationships  
+Inference
+
+</td>
+<td align="center" width="20%">
+
+**MACHINE LEARNING**
+
+Features  
+Prediction  
+Evaluation
+
+</td>
+<td align="center" width="20%">
+
+**INTELLIGENCE**
+
+NLP  
+Ranking  
+Similarity
+
+</td>
+<td align="center" width="20%">
+
+**SYSTEMS**
+
+Storage  
+Queries  
+APIs
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## THE NEXT ITERATION
+
+<table>
+<tr>
+<td align="center">
+
+**MORE DATA**
+
+</td>
+<td align="center">+</td>
+<td align="center">
+
+**BETTER REASONING**
+
+</td>
+<td align="center">+</td>
+<td align="center">
+
+**STRONGER SYSTEMS**
+
+</td>
+<td align="center">=</td>
+<td align="center">
+
+**USEFUL INTELLIGENCE**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/swaskiee">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-202431?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories">
+</a>
+
+<br><br>
+
+<img src="./chibbi.gif" width="150" alt="Chibbi">
+
+<br>
+
+<em>still learning · still building · still curious</em>
+
+</div>
 
