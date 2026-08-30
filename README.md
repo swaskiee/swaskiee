@@ -1,7 +1,7 @@
 <div align="center">
-
+  
 <a href="https://github.com/swaskiee">
-  <img src="./reveal.svg" width="230" alt="Swati Dubey — profile portrait">
+  <img src="https://raw.githubusercontent.com/swaskiee/swaskiee/main/reveal.svg?v=2" width="230" alt="Swati Dubey — profile portrait">
 </a>
 
 <br>
