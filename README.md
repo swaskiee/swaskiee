@@ -366,11 +366,11 @@ Analysis of **10,000 restaurant reviews across 100 restaurants** — ratings, re
 
 <table align="center">
 <tr>
-<td align="center" width="20%">**Data**<br><sub>Cleaning · EDA · Viz</sub></td>
-<td align="center" width="20%">**Statistics**<br><sub>Distributions · Inference</sub></td>
-<td align="center" width="20%">**Machine Learning**<br><sub>Features · Prediction</sub></td>
-<td align="center" width="20%">**Intelligence**<br><sub>NLP · Ranking</sub></td>
-<td align="center" width="20%">**Systems**<br><sub>Storage · APIs</sub></td>
+<td align="center" width="20%">Data<br><sub>Cleaning · EDA · Viz</sub></td>
+<td align="center" width="20%">Statistics<br><sub>Distributions · Inference</sub></td>
+<td align="center" width="20%">Machine Learning<br><sub>Features · Prediction</sub></td>
+<td align="center" width="20%">Intelligence<br><sub>NLP · Ranking</sub></td>
+<td align="center" width="20%">Systems<br><sub>Storage · APIs</sub></td>
 </tr>
 </table>
 
