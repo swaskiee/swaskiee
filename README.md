@@ -6,6 +6,8 @@
   <img src="https://raw.githubusercontent.com/swaskiee/swaskiee/main/reveal.svg?v=5" width="260" alt="Swati Dubey — profile portrait">
 </a>
 
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Data+Analytics+Explorer;Applied+Intelligence+Builder;curiosity+-%3E+data+-%3E+reasoning+-%3E+impact" alt="Typing SVG" />
 
 <br clear="all">
