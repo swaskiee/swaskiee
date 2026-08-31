@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4F64,50:8057E8,100:00D4FF&height=200&section=header&text=SWATI%20DUBEY&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4F64,50:8057E8,100:00D4FF&height=190&section=header&text=SWATI%20DUBEY&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="header banner"/>
 
 <a href="https://github.com/swaskiee">
-  <img src="https://raw.githubusercontent.com/swaskiee/swaskiee/main/reveal.svg?v=5" width="280" alt="Swati Dubey — profile portrait">
+  <img src="https://raw.githubusercontent.com/swaskiee/swaskiee/main/reveal.svg?v=5" width="260" alt="Swati Dubey — profile portrait">
 </a>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Data+Analytics+Explorer;Applied+Intelligence+Builder;curiosity+-%3E+data+-%3E+reasoning+-%3E+impact" alt="Typing SVG" />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Data+Analytics+Explorer;Applied+Intelligence+Builder;curiosity+-%3E+data+-%3E+reasoning+-%3E+impact" alt="Typing SVG" />
 
 <a href="https://github.com/swaskiee/Gauntlet">
   <img src="https://img.shields.io/badge/GAUNTLET-FF4F64?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Gauntlet">
@@ -30,7 +26,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -52,7 +48,9 @@ I like the part where raw information stops being a spreadsheet and starts becom
 
 </td></tr></table>
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0D1117&height=42&width=340&text=currently%20building%20PRISM&fontSize=13&fontColor=00D4FF&animation=fadeIn&fontAlignY=60" alt="status pill">
+</div>
 
 <table width="100%">
 <tr>
@@ -61,9 +59,7 @@ I like the part where raw information stops being a spreadsheet and starts becom
 **Data Analytics**
 <br>
 <sub>Clean, explore, compare and communicate data.</sub>
-
 <br><br>
-
 `Excel` `Pivot Tables` `Charts & Slicers`
 `Data Cleaning` `Segmentation` `Trend Analysis`
 
@@ -73,9 +69,7 @@ I like the part where raw information stops being a spreadsheet and starts becom
 **Applied Intelligence**
 <br>
 <sub>Turn information into signals that can be matched, ranked, detected and explained.</sub>
-
 <br><br>
-
 `NLP` `Semantic Similarity` `Ranking`
 `Behavioural Signals` `Anomaly Detection` `Machine Learning`
 
@@ -85,9 +79,7 @@ I like the part where raw information stops being a spreadsheet and starts becom
 **Data Systems**
 <br>
 <sub>Understand what happens underneath analytical workflows.</sub>
-
 <br><br>
-
 `SQL` `Persistence` `Indexing`
 `Query Execution` `APIs` `System Design`
 
@@ -95,19 +87,15 @@ I like the part where raw information stops being a spreadsheet and starts becom
 </tr>
 </table>
 
-<br>
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=2&width=100%" width="60%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=2&width=100%" width="55%">
 </p>
 
-<br>
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF4F64,100:8057E8&height=48&width=260&text=THE%20DIRECTION&fontSize=16&fontColor=FFFFFF&animation=fadeIn&fontAlignY=62" alt="section pill">
+</div>
 
-## The direction
-
-<table>
+<table align="center">
 <tr>
 <td align="center" width="21%">
 
@@ -139,22 +127,34 @@ I like the part where raw information stops being a spreadsheet and starts becom
 </tr>
 </table>
 
+<div align="center">
 <sub>Data Understanding → Statistical Reasoning → Machine Learning → Data Science Impact</sub>
-
 </div>
 
-<br>
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=2&width=100%" width="60%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=2&width=100%" width="55%">
 </p>
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8057E8,100:00D4FF&height=48&width=260&text=HOW%20I%20THINK&fontSize=16&fontColor=FFFFFF&animation=fadeIn&fontAlignY=62" alt="section pill">
+</div>
+
+```python
+def approach(raw_data):
+    clean      = understand(raw_data)      # remove noise, spot patterns
+    signals    = reason(clean)             # statistics, relationships
+    prediction = model(signals)            # features, evaluation
+    decision   = act_on(prediction)        # insight becomes outcome
+
+    return decision   # useful > impressive
+```
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=2&width=100%" width="55%">
+</p>
 
 <div align="center">
-
-## Featured builds
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF4F64,100:8057E8&height=48&width=280&text=FEATURED%20BUILDS&fontSize=16&fontColor=FFFFFF&animation=fadeIn&fontAlignY=62" alt="section pill">
 </div>
 
 <table width="100%">
@@ -169,11 +169,9 @@ I like the part where raw information stops being a spreadsheet and starts becom
 <img src="https://img.shields.io/badge/OPEN%20GAUNTLET-FF4F64?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Open Gauntlet">
 </a>
 
-<br><br>
+<br>
 
 A deeper engineering-focused build exploring how structured data, processing logic, and system behaviour work together.
-
-<br>
 
 `DATA` → `PROCESS` → `SYSTEM`
 
@@ -190,14 +188,11 @@ A deeper engineering-focused build exploring how structured data, processing log
 <img src="https://img.shields.io/badge/OPEN%20PRISM-8057E8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Open Prism">
 </a>
 
-<br><br>
+<br>
 
 An AI-driven hiring platform turning candidate information into **meaningful, explainable signals** — not just keyword matches.
 
-<br>
-
 `INPUT` → `INTELLIGENCE` → `OUTPUT`
-
 <sub>Semantic Matching · NLP · Ranking · Explainability</sub>
 
 </div>
@@ -206,19 +201,15 @@ An AI-driven hiring platform turning candidate information into **meaningful, ex
 </tr>
 </table>
 
-<br>
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=2&width=100%" width="60%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=2&width=100%" width="55%">
 </p>
 
-<br>
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00D4FF,100:8057E8&height=48&width=280&text=TECHNICAL%20TOOLKIT&fontSize=16&fontColor=FFFFFF&animation=fadeIn&fontAlignY=62" alt="section pill">
+</div>
 
-## Technical toolkit
-
-<table>
+<table align="center">
 <tr>
 <td align="center" width="25%">
 
@@ -259,23 +250,16 @@ Flask · SQLite · Node.js
 </tr>
 </table>
 
-<br>
-
+<div align="center">
 <img src="https://skillicons.dev/icons?i=python,typescript,java,cpp,html,css,bash,flask,nodejs,sqlite,git,github,linux" alt="Technology stack">
-
 </div>
 
-<br>
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=2&width=100%" width="60%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=2&width=100%" width="55%">
 </p>
 
-<br>
-
 <div align="center">
-
-## Open source contribution
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:19C968,100:0D1117&height=48&width=340&text=OPEN%20SOURCE%20CONTRIBUTION&fontSize=15&fontColor=FFFFFF&animation=fadeIn&fontAlignY=62" alt="section pill">
 
 <a href="https://github.com/corsairdev/corsair/pull/1230">
 <img src="https://img.shields.io/badge/CORSAIR-202431?style=for-the-badge&logo=github&logoColor=white" alt="Corsair">
@@ -302,25 +286,17 @@ Contributed a **Dropbox Sign integration plugin** to Corsair, an active open-sou
 </table>
 
 <div align="center">
-
 <a href="https://github.com/corsairdev/corsair/pull/1230">
 <img src="https://img.shields.io/badge/READ%20THE%20CONTRIBUTION-FF4F64?style=for-the-badge&logo=github&logoColor=white" alt="Read contribution">
 </a>
-
 </div>
 
-<br>
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=2&width=100%" width="60%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=2&width=100%" width="55%">
 </p>
 
-<br>
-
 <div align="center">
-
-## Earlier builds
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8057E8,100:FF4F64&height=48&width=260&text=EARLIER%20BUILDS&fontSize=16&fontColor=FFFFFF&animation=fadeIn&fontAlignY=62" alt="section pill">
 </div>
 
 <table width="100%">
@@ -369,25 +345,17 @@ Analysis of **10,000 restaurant reviews across 100 restaurants** — ratings, re
 </tr>
 </table>
 
-<div align="center">
-
-<sub>Dashboards → Analysis → Intelligence → Systems</sub>
-
-</div>
-
-<br>
+<div align="center"><sub>Dashboards → Analysis → Intelligence → Systems</sub></div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=2&width=100%" width="60%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=2&width=100%" width="55%">
 </p>
 
-<br>
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00D4FF,100:FF4F64&height=48&width=300&text=CURRENTLY%20EXPLORING&fontSize=15&fontColor=FFFFFF&animation=fadeIn&fontAlignY=62" alt="section pill">
+</div>
 
-## Currently exploring
-
-<table>
+<table align="center">
 <tr>
 <td align="center" width="20%">**Data**<br><sub>Cleaning · EDA · Viz</sub></td>
 <td align="center" width="20%">**Statistics**<br><sub>Distributions · Inference</sub></td>
@@ -397,21 +365,13 @@ Analysis of **10,000 restaurant reviews across 100 restaurants** — ratings, re
 </tr>
 </table>
 
-</div>
-
-<br>
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=2&width=100%" width="60%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=2&width=100%" width="55%">
 </p>
-
-<br>
 
 <div align="center">
 
 **more data + better reasoning + stronger systems = useful intelligence**
-
-<br>
 
 <a href="https://github.com/swaskiee">
 <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-202431?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories">
@@ -419,6 +379,4 @@ Analysis of **10,000 restaurant reviews across 100 restaurants** — ratings, re
 
 </div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:8057E8,100:FF4F64&height=160&section=footer&text=still%20learning%20%C2%B7%20still%20building%20%C2%B7%20still%20curious&fontSize=18&fontColor=FFFFFF&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:8057E8,100:FF4F64&height=150&section=footer&text=still%20learning%20%C2%B7%20still%20building%20%C2%B7%20still%20curious&fontSize=17&fontColor=FFFFFF&animation=fadeIn" width="100%">
