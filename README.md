@@ -8,6 +8,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Data+Analytics+Explorer;Applied+Intelligence+Builder;curiosity+-%3E+data+-%3E+reasoning+-%3E+impact" alt="Typing SVG" />
 
+<br clear="all">
+
+<p align="center">
 <a href="https://github.com/swaskiee/Gauntlet">
   <img src="https://img.shields.io/badge/GAUNTLET-FF4F64?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Gauntlet">
 </a>
@@ -17,12 +20,14 @@
 <a href="https://github.com/swaskiee">
   <img src="https://img.shields.io/badge/REPOSITORIES-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="Repositories">
 </a>
+<br>
 <a href="https://www.linkedin.com/in/swati-dubey-137024369">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn">
 </a>
 <a href="mailto:swaskieee@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email">
 </a>
+</p>
 
 </div>
 
@@ -276,14 +281,16 @@ Contributed a **Dropbox Sign integration plugin** to Corsair, an active open-sou
 
 </td></tr></table>
 
-<table width="100%">
+<div align="center">
+<table>
 <tr>
-<td align="center" width="25%"><h3>3,623+</h3><sub>lines added</sub></td>
-<td align="center" width="25%"><h3>19</h3><sub>commits</sub></td>
-<td align="center" width="25%"><h3>26</h3><sub>files changed</sub></td>
-<td align="center" width="25%"><h3>56</h3><sub>API operations</sub></td>
+<td align="center" width="150"><h3>3,623+</h3><sub>lines added</sub></td>
+<td align="center" width="150"><h3>19</h3><sub>commits</sub></td>
+<td align="center" width="150"><h3>26</h3><sub>files changed</sub></td>
+<td align="center" width="150"><h3>56</h3><sub>API operations</sub></td>
 </tr>
 </table>
+</div>
 
 <div align="center">
 <a href="https://github.com/corsairdev/corsair/pull/1230">
