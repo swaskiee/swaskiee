@@ -1,10 +1,9 @@
 <div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4FF&height=200&section=header&text=SWATI%20DUBEY&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4F64,50:8057E8,100:00D4FF&height=210&section=header&text=SWATI%20DUBEY&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="header banner"/>
 
 <a href="https://github.com/swaskiee">
-  <img src="https://raw.githubusercontent.com/swaskiee/swaskiee/main/reveal.svg?v=3" width="300" alt="Swati Dubey — profile portrait">
+  <img src="https://raw.githubusercontent.com/swaskiee/swaskiee/main/reveal.svg?v=5" width="300" alt="Swati Dubey — profile portrait">
 </a>
 
 <br><br>
@@ -25,12 +24,19 @@
 <a href="https://www.linkedin.com/in/swati-dubey-137024369">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn">
 </a>
+<a href="mailto:swaskieee@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=swaskiee&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=4&width=100%" width="100%">
 
 <br>
 
@@ -56,7 +62,7 @@ I like the part where raw information stops being a spreadsheet and starts becom
 <tr>
 <td align="center" width="33%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,100:0D1117&height=55&width=100%&text=DATA%20ANALYTICS&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,100:B3002D&height=55&width=100%&text=DATA%20ANALYTICS&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%">
 
 <br>
 
@@ -64,17 +70,17 @@ Clean, explore, compare and communicate data.
 
 <br>
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Pivot](https://img.shields.io/badge/Pivot_Tables-217346?style=flat-square)
-![Charts](https://img.shields.io/badge/Charts_%26_Slicers-217346?style=flat-square)
-![Cleaning](https://img.shields.io/badge/Data_Cleaning-217346?style=flat-square)
-![Segmentation](https://img.shields.io/badge/Segmentation-217346?style=flat-square)
-![Trend](https://img.shields.io/badge/Trend_Analysis-217346?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-FF4F64?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Pivot](https://img.shields.io/badge/Pivot_Tables-FF4F64?style=flat-square)
+![Charts](https://img.shields.io/badge/Charts_%26_Slicers-FF4F64?style=flat-square)
+![Cleaning](https://img.shields.io/badge/Data_Cleaning-FF4F64?style=flat-square)
+![Segmentation](https://img.shields.io/badge/Segmentation-FF4F64?style=flat-square)
+![Trend](https://img.shields.io/badge/Trend_Analysis-FF4F64?style=flat-square)
 
 </td>
 <td align="center" width="33%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8057E8,100:0D1117&height=55&width=100%&text=APPLIED%20INTELLIGENCE&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8057E8,100:4B2E9E&height=55&width=100%&text=APPLIED%20INTELLIGENCE&fontSize=18&fontColor=FFFFFF&fontAlignY=65" width="100%">
 
 <br>
 
@@ -92,7 +98,7 @@ Turn information into signals that can be matched, ranked, detected and explaine
 </td>
 <td align="center" width="33%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=55&width=100%&text=DATA%20SYSTEMS&fontSize=18&fontColor=000000&fontAlignY=65" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0090B3&height=55&width=100%&text=DATA%20SYSTEMS&fontSize=18&fontColor=000000&fontAlignY=65" width="100%">
 
 <br>
 
@@ -100,12 +106,12 @@ Understand what happens underneath analytical workflows.
 
 <br>
 
-![SQL](https://img.shields.io/badge/SQL-006BB6?style=flat-square)
-![Persistence](https://img.shields.io/badge/Persistence-006BB6?style=flat-square)
-![Indexing](https://img.shields.io/badge/Indexing-006BB6?style=flat-square)
-![Query](https://img.shields.io/badge/Query_Execution-006BB6?style=flat-square)
-![APIs](https://img.shields.io/badge/APIs-006BB6?style=flat-square)
-![Design](https://img.shields.io/badge/System_Design-006BB6?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-00B4D8?style=flat-square)
+![Persistence](https://img.shields.io/badge/Persistence-00B4D8?style=flat-square)
+![Indexing](https://img.shields.io/badge/Indexing-00B4D8?style=flat-square)
+![Query](https://img.shields.io/badge/Query_Execution-00B4D8?style=flat-square)
+![APIs](https://img.shields.io/badge/APIs-00B4D8?style=flat-square)
+![Design](https://img.shields.io/badge/System_Design-00B4D8?style=flat-square)
 
 </td>
 </tr>
@@ -113,7 +119,7 @@ Understand what happens underneath analytical workflows.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=4&width=100%" width="100%">
 
 <br>
 
@@ -161,7 +167,7 @@ Understand what happens underneath analytical workflows.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=4&width=100%" width="100%">
 
 <br>
 
@@ -224,7 +230,7 @@ An AI-driven hiring platform turning candidate information into **meaningful, ex
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=4&width=100%" width="100%">
 
 <br>
 
@@ -283,7 +289,7 @@ Flask · SQLite · Node.js
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=4&width=100%" width="100%">
 
 <br>
 
@@ -323,7 +329,7 @@ Contributed a **Dropbox Sign integration plugin** to Corsair, an active open-sou
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=4&width=100%" width="100%">
 
 <br>
 
@@ -389,7 +395,7 @@ Analysis of **10,000 restaurant reviews across 100 restaurants** — ratings, re
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=4&width=100%" width="100%">
 
 <br>
 
@@ -413,7 +419,7 @@ Analysis of **10,000 restaurant reviews across 100 restaurants** — ratings, re
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:0D1117&height=3&width=100%" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=4&width=100%" width="100%">
 
 <br>
 
@@ -423,15 +429,76 @@ Analysis of **10,000 restaurant reviews across 100 restaurants** — ratings, re
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=swaskiee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swaskiee&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=swaskiee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF4F64&text_color=FFFFFF" alt="GitHub Stats" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swaskiee&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF4F64&fire=FF4F64&currStreakLabel=00D4FF" alt="GitHub Streak" height="170">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaskiee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaskiee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" height="170">
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=swaskiee&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophies">
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4FF&height=180&section=footer&text=STILL%20LEARNING%20%C2%B7%20STILL%20BUILDING%20%C2%B7%20STILL%20CURIOUS&fontSize=20&fontColor=FFFFFF&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=4&width=100%" width="100%">
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=60&width=100%&text=CONTRIBUTION%20ACTIVITY&fontSize=26&fontColor=00D4FF&fontAlignY=68" width="100%">
+
+<br>
+
+<!--
+  Animated contribution snake — requires a one-time GitHub Action
+  setup (workflow file provided separately). Once the workflow runs
+  once, this image is auto-generated and updates daily.
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swaskiee/swaskiee/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swaskiee/swaskiee/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/swaskiee/swaskiee/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4F64,50:8057E8,100:00D4FF&height=4&width=100%" width="100%">
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=60&width=100%&text=THE%20NEXT%20ITERATION&fontSize=26&fontColor=00D4FF&fontAlignY=68" width="100%">
+
+<br>
+
+<table>
+<tr>
+<td align="center"><strong>MORE DATA</strong></td>
+<td align="center">+</td>
+<td align="center"><strong>BETTER REASONING</strong></td>
+<td align="center">+</td>
+<td align="center"><strong>STRONGER SYSTEMS</strong></td>
+<td align="center">=</td>
+<td align="center"><strong>USEFUL INTELLIGENCE</strong></td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/swaskiee">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-202431?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories">
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:8057E8,100:FF4F64&height=180&section=footer&text=STILL%20LEARNING%20%C2%B7%20STILL%20BUILDING%20%C2%B7%20STILL%20CURIOUS&fontSize=20&fontColor=FFFFFF&animation=fadeIn" width="100%">
