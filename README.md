@@ -26,9 +26,7 @@
 <a href="https://www.linkedin.com/in/swati-dubey-137024369">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn">
 </a>
-<a href="mailto:swaskieee@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email">
-</a>
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:swaskieee@gmail.com)
 </p>
 
 </div>
