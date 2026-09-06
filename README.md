@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/swati-dubey-137024369">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn">
 </a>
-<a href="mailto:swaskieee@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=swaskieee@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email">
 </a>
 </p>
