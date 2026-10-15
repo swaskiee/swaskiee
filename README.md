@@ -16,17 +16,12 @@
 
 ## Data first. Questions next. Useful systems after that.
 
-I am an **aspiring data scientist** (BCA student) with a growing interest in **data analytics, applied intelligence, statistics, machine learning**, and the systems that support data-driven applications.
+I am an **aspiring data scientist** with a growing interest in **data analytics, applied intelligence, statistics, machine learning**, and the systems that support data-driven applications.
 
 I like the part where raw information stops being a spreadsheet and starts becoming a question:
 
 **What happened → why it happened → what signal matters → what we do with it**
 
-<div align="center">
-
-![status](https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:0D1117&height=42&width=340&text=currently%20building%20PRISM&fontSize=13&fontColor=00D4FF&animation=fadeIn&fontAlignY=60)
-
-</div>
 
 | **Data Analytics** | **Applied Intelligence** | **Data Systems** |
 | --- | --- | --- |
