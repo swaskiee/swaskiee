@@ -23,11 +23,13 @@ I like the part where raw information stops being a spreadsheet and starts becom
 **What happened → why it happened → what signal matters → what we do with it**
 
 
+
 | **Data Analytics** | **Applied Intelligence** | **Data Systems** |
 | --- | --- | --- |
 | Clean, explore, compare and communicate data.<br>`Python` `Excel` `Statistics` `Regression` `Data Cleaning` `Trend Analysis` | Turn information into signals that can be matched, ranked, detected and explained.<br>`NLP` `Semantic Similarity` `Ranking` `Anomaly Detection` `Machine Learning` | Understand what happens underneath analytical workflows.<br>`SQL` `Persistence` `Indexing` `Query Execution` `APIs` `System Design` |
 
 ---
+
 
 ## How I think
 
